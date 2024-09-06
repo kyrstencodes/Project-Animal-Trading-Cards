@@ -1,0 +1,39 @@
+/* add your CSS here */
+.mainBox {
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px grey;
+    padding-top: 0px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    width: 300px;
+}
+.innerBox {
+    border:1px solid black; 
+    padding-top: 0px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    margin-top: 15px;
+}
+.fact {
+    font-style: italic;
+}
+span {
+    font-weight: bold;
+}
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14px;
+}
+p{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14px;
+}
+h3 {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
